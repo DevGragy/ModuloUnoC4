@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: linear-gradient(to right, #fca5f1, #b5ffff);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
