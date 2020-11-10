@@ -127,5 +127,6 @@ img {
 
 .features {
     display: grid;
+    height: 660px;
     grid-template: repeat(2, 1fr) / repeat(2, 330px);
 }
